@@ -1,0 +1,9 @@
+{
+	"name" : "Evacuation Planning",
+	"description" : "Evacuation Booking System - School Project (GIS)",
+	"created" : "19/10/2020",
+	"completed" : "true",
+	"modules" : ["pickle,random, csv", "remove,rename", "datetime, timedelta"],
+	"hosting" : {"hosted" : "false"},
+	"code" : "EV-19102020-161941"
+}
